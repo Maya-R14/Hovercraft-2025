@@ -5,15 +5,14 @@
 ## Features
 - Integrated IR and Ultrasonic sensors for obstacle detection
 - On-board IMU for motion tracking and attitude estimation
-- Servo-based thrust control
 - Fully functional prototype with active lift and propulsion
 
 ## Hardware
-- Arduino Nano (ATmega328P)
+- Arduino Nano 
 - IR Sensors
 - Ultrasonic Sensor
 - IMU Module
-- Servo Motor(s)
+- Servo Motor
 - Fans (lift + propulsion)
 - Li-ion Battery Pack
 
