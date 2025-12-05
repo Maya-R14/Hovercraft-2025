@@ -1,6 +1,6 @@
 # Hovercraft-2025
 
-**Status:** In development. Major updates planned before January 2026.
+**Status:** Currently ongoing. Will be updated before January 2026.
 
 ## Features
 - Integrated IR and Ultrasonic sensors for obstacle detection
