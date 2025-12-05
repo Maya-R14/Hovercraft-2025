@@ -1,21 +1,23 @@
 # Hovercraft-2025
-- Project currently ongoing. Will be updated before Jan 2026.
 
-##Features
-- Integrated IR and US sensors
-- Integrated UMI for motion tracking 
-- Fully functional prototype
+**Status:** In development. Major updates planned before January 2026.
+
+## Features
+- Integrated IR and Ultrasonic sensors for obstacle detection
+- On-board IMU for motion tracking and attitude estimation
+- Servo-based thrust control
+- Fully functional prototype with active lift and propulsion
 
 ## Hardware
-- Arduino Nano
+- Arduino Nano (ATmega328P)
 - IR Sensors
-- US Sensor
+- Ultrasonic Sensor
 - IMU Module
-- Servo Motor
-- Fans
+- Servo Motor(s)
+- Fans (lift + propulsion)
 - Li-ion Battery Pack
 
 ## Software / Tools
 - Arduino IDE (C/C++)
-- Solidworks
+- SolidWorks
 - AVR Studio 4
